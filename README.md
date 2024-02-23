@@ -12,7 +12,7 @@
   # [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
 ##  Link to the finished project:
-  # [DEMO LINK](https://RomanOstrous.github.io/layout_miami/)
+  # [DEMO LINK](https://romanostrous.github.io/miami-landing/)
 
 ## Technologies
   The following technologies were used to build this project:
