@@ -41,7 +41,7 @@ npm install
 ```sql
 npm start
 ```
-4. Open the app in your web browser by navigating to http://localhost:3000.
+4. Open the app in your web browser by navigating to http://localhost:8080.
 
 ## Project Structure
 
