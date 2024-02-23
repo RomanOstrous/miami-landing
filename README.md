@@ -12,7 +12,7 @@
   # [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
 ##  Link to the finished project:
-  # [DEMO LINK](https://RomanOstrous.github.io/layout_miami/)
+  # [DEMO LINK](https://romanostrous.github.io/miami-landing/)
 
 ## Technologies
   The following technologies were used to build this project:
@@ -41,7 +41,7 @@ npm install
 ```sql
 npm start
 ```
-4. Open the app in your web browser by navigating to http://localhost:3000.
+4. Open the app in your web browser by navigating to http://localhost:8080.
 
 ## Project Structure
 
