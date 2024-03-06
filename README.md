@@ -1,4 +1,4 @@
-# Miami landing page
+# MyBike landing page
 
 ## General info
   ### This project was created using HTML, SCSS, JS.
